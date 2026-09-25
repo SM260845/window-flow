@@ -1,5 +1,3 @@
-Absolutely — here’s a hardened **v0 README.md** focused on the current product thesis and MVP, without overclaiming security capabilities.
-
 # Window Flow
 
 > **Organize your desktop. Control application relationships. Isolate what needs to stay offline.**
